@@ -1,0 +1,7 @@
+[[ Commands To Execute And Remove Module ]]
+
+Install -   
+sh /sdcard/Snapdragon/Snapdragon_Boost.sh 
+
+Remove - 
+sh /sdcard/Snapdragon/Remove.sh 
